@@ -3,6 +3,8 @@ CSCI 6840 - Project 1
 Customer Segmentation Using Clustering Techniques
 Dataset: Mall_Customers.csv (Kaggle Mall Customers)
 
+
+Run: pip install pandas numpy matplotlib scikit-learn scipy
 Run:  python customer_segmentation.py
 (Full explanation of each step is in the PowerPoint presentation.)
 """
