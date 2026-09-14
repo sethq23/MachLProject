@@ -4,7 +4,7 @@ Customer Segmentation Using Clustering Techniques
 Dataset: Mall_Customers.csv (Kaggle Mall Customers)
 
 python -m venv "You_name"
-cd "You_name"\Scripts\activate
+cd "You_name"\Scripts\
 .\activate
 
 
